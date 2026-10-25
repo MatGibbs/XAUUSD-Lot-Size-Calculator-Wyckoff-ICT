@@ -44,7 +44,7 @@ Before computing Step 7, all 6 structural conditions must return `TRUE`:
 
 Access the **Interactive 7-Step Binary Gatekeeper** and download the **Offline HTML Pip & Lot Matrix Generator** (inside the Pinned Message of our Official Educational Telegram Channel):
 
-👉 **[Open Interactive Checklist & Download Free Tool Here](https://cdiprincipe.systeme.io/the-gold-method)**
+👉 **[Open Interactive Checklist & Download Free Tool Here](https://matgibbs.systeme.io/the-gold-method)**
 
 ---
 *Disclaimer: Strictly for educational, mathematical, and algorithmic documentation purposes only. Nothing in this repository constitutes financial advice or trading signals.*
